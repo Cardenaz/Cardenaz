@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on peer to peer laundry. 
+
+I started to code originally because I wanted to develop Machine Learning Models, however, I don't ever recall having a pleasant or creative moment 
+with it - and kind of got swooped into app development instead. 
+
+
+
 <!--
 **Cardenaz/Cardenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
