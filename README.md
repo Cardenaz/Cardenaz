@@ -15,6 +15,7 @@ mostly active in 2020-2022. now not so much.
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cardenaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaz&layout=compact&theme=dark&hide=jupyter%20notebook&count_private=true)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FCardenaz&label=github&icon=diamond-half&color=%23198754&message=&style=flat&tz=UTC)
 
 
 <!--
