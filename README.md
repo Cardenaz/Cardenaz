@@ -17,6 +17,8 @@ mostly active in 2020-2022. now not so much.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaz&layout=compact&theme=dark&hide=jupyter%20notebook&count_private=true)
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FCardenaz&label=github&icon=diamond-half&color=%23198754&message=&style=flat&tz=UTC)
 
+I like reading & workin through old soviet physics & maths books. 
+
 
 <!--
 **Cardenaz/Cardenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
