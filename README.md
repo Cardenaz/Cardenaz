@@ -14,8 +14,12 @@ la physique
 mostly active in 2020-2022. now not so much. 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cardenaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaz&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaz&layout=compact&theme=dark&hide=jupyter%20notebook&count_private=true)
+```
 
+Each parameter is separated by `&`. So the pattern is just:
+```
+?first_param=value&second_param=value&third_param=value
 
 
 <!--
