@@ -1,7 +1,7 @@
 ### Hi beautiful peoples 👋
 
 <strike>
-🔭 I’m currently working on peer to peer laundry. [2020-08-21]
+🔭 [2020-08-21] I’m currently working on peer to peer laundry.
 </strike>
 
 <strike>
