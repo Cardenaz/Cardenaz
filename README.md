@@ -9,8 +9,6 @@ I started to code originally because I wanted to develop Machine Learning Models
 with it - it was sort of like I had my eyes half closed when pounding ML books or projects while having Geohot streaming in the background, and thinking that this will eventually be fun, that day never came, except the streaming part ... and I kind of got swooped into app development instead. However, I should remind myself that if somebody is not having fun, they are most likely not trying hard enough. 
 </strike>
 
-la physique
-
 mostly active in 2020-2022. now not so much. 
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cardenaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
